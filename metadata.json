@@ -1,0 +1,6 @@
+{
+  "name": "tv-app",
+  "identifier": "com.domain.app.tvapp",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
